@@ -1,5 +1,5 @@
 {
-    "name": "bshaffer/oauth2-server-httpfoundation-bridge",
+    "name": "igamesinc/oauth2-server-httpfoundation-bridge",
     "description":"A bridge to HttpFoundation for oauth2-server-php",
     "keywords":["oauth","oauth2","auth","httpfoundation"],
     "type":"library",
@@ -9,12 +9,16 @@
             "name":"Brent Shaffer",
             "email": "bshafs@gmail.com",
             "homepage":"http://brentertainment.com"
-        }
+        },
+        {
+            "name": "John Frykland",
+            "email": "john@igamesinc.com",
+            "homepage": "https://www.igamesinc.com"
     ],
-    "homepage": "http://github.com/bshaffer/oauth2-server-httpfoundation-bridge",
+    "homepage": "http://github.com/igamesinc/oauth2-server-httpfoundation-bridge",
     "require":{
         "php":">=8.0",
-        "bshaffer/oauth2-server-php": "^1.13",
+        "igamesinc/oauth2-server-php": "^1.13",
         "symfony/http-foundation": "^5.4||^6.0||^7.0"
     },
     "autoload": {

@@ -14,6 +14,7 @@
             "name": "John Frykland",
             "email": "john@igamesinc.com",
             "homepage": "https://www.igamesinc.com"
+        }
     ],
     "homepage": "http://github.com/igamesinc/oauth2-server-httpfoundation-bridge",
     "require":{

@@ -19,7 +19,7 @@
     "homepage": "http://github.com/igamesinc/oauth2-server-httpfoundation-bridge",
     "require":{
         "php":">=8.0",
-        "igamesinc/oauth2-server-php": "^1.13",
+        "igamesinc/oauth2-server-php": "^1.14",
         "symfony/http-foundation": "^5.4||^6.0||^7.0"
     },
     "autoload": {
